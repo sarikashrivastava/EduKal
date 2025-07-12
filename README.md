@@ -43,7 +43,7 @@ Project Documentation
 <ol>
 <li>Install all the dependencies stored in requirements.txt (For installing dlib library you need to install visual studio and cmake first).</li>
 <li>Run app.py.</li>
-<li>Change directory to SIH22-AIYOJAN.</li>
+<li>Change directory to SIH22-EduKal.</li>
 <li>Open http://127.0.0.1:5000/ in browser.</li>
 </ol>
 <br>
