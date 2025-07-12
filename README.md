@@ -1,22 +1,7 @@
-
-<div align="center">
-<img width="164" alt="Logo1" src="https://user-images.githubusercontent.com/64307441/220329846-2cafde60-d3d4-43e0-acbc-4fa4a5d80d72.png">
-</div>
-
-<h1 align="center">AIयोजन</h1>
+<h1 align="center">EduKal</h1>
 <h3 align="center">A centralized platform for displaying annual academic calendar for Indian Universities</h3>
 <br><br>
 <p align="center" style="margin-top:10px">
-<hr>
-
-<h3 align="center">
-Achievement
-</h3> 
-<hr>
-<br> 
-<ul>
-<li>Stood first in SIH Internal Hackathon 2022.</li>
-</ul>
 <hr>
 
 <h3 align="center">
